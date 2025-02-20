@@ -1,12 +1,17 @@
 
+import './App.css'
+import Navbar from './components/Navbar'
+import Home from './pages/Home'
 
 function App() {
 
   return (
     <>
-      <h1 className="text-5xl font-bold text-blue-700  text-center">
-        Vite + React
-      </h1>
+    <div  >
+
+      < Navbar/>
+    </div>
+      <Home/>
    
     </>
   )

@@ -6,14 +6,12 @@ import Home from './pages/Home'
 function App() {
 
   return (
-    <>
-    <div  >
+    <div className='font-clash w-screen '>
 
       < Navbar/>
-    </div>
       <Home/>
    
-    </>
+    </div>
   )
 }
 

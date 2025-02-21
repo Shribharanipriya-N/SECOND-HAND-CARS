@@ -8,6 +8,12 @@ export default {
         red: "#DC3545",
         tertiary: "#EEEEEE",
         blue: "#0D6EFD",
+        placeholder:"#F5F5F5",
+        grey:"#888888",
+        grey1:"#333333"
+      },
+      fontFamily: {
+        clash: ['Clash Display', 'sans-serif'],
       },
 
     },
